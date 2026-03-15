@@ -1,4 +1,4 @@
-ٍهةحمث
+
 A small Python project to manage a bank account.
 
  What can it do?
